@@ -1,5 +1,5 @@
 const is_even = (num) => {
-  return num%2 === 0;
+  return num%2 === 0; // 수정
 }
 
 console.log(is_even(11)) 
